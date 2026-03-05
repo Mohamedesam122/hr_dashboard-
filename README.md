@@ -3,4 +3,4 @@ Developed an interactive Power BI dashboard to analyze employee performance and 
 
 
 
-<img width="1164" height="652" alt="image" src="https://github.com/user-attachments/assets/1a56bbcf-3ff5-4135-9699-7f5732452580" />
+<img width="1167" height="652" alt="image" src="https://github.com/user-attachments/assets/62a35562-3185-409c-bf0b-2c83131f7612" />
